@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+.cabecalho{
+    background-color: #eaecf0;
+    padding: 12px 24px;
+
+}
+.logo-figure{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+}
+
+.logo-name{
+    margin: 0 12px;
+    font-size: 35px;
+}
+body{
+    margin: 0;
+
+}
+footer{
+    text-align: center;
+    background-color: #eae;
+    padding: 12px;
+}
+a:not(:hover){
+    text-decoration: none;
+}
